@@ -4,7 +4,7 @@ const green = document.getElementById('green');
 const red = document.getElementById('red');
 const yellow = document.getElementById('yellow');
 const blue = document.getElementById('blue');
-const FINAL_LEVEL = 3;
+const FINAL_LEVEL = 10;
 
 class Game {
   constructor() {
